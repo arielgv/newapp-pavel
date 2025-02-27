@@ -6,6 +6,7 @@ pip install openpyxl pandas
 - Reemplazar la carpeta *app* con esta otra, el funcionamiento que tenía no se ha modificado, solamente la detección del archivo entrante. 
 NUEVA ESTRUCTURA:
 
+```
 cosa-core-engine/
 └── app/
     ├── file_processing/
@@ -21,3 +22,4 @@ cosa-core-engine/
     │       ├── models.py
     │       └── db_operations.py
 
+```
